@@ -1,0 +1,81 @@
+PostingID,JobID,Company,PostedDate,Location,Remote,Status
+1,1,BrightApps,2024-10-29,Minneapolis,Yes,Closed
+2,2,WebCrafters,2024-10-15,Atlanta,Yes,Closed
+3,3,DataVision,2024-10-12,Minneapolis,Yes,Open
+4,4,DevMasters,2024-10-31,Minneapolis,No,Closed
+5,5,CyberSecure,2024-10-05,Boston,Yes,Open
+6,6,DevMasters,2024-10-05,"Washington, D.C.",Yes,Closed
+7,7,DataSys,2024-10-03,"Washington, D.C.",No,Closed
+8,8,ProductHub,2024-10-19,Seattle,No,Closed
+9,9,Cloudify,2024-10-10,San Francisco,No,Closed
+10,10,CodeBuilders,2024-10-06,New York,No,Closed
+11,11,TechCorp,2024-10-20,Portland,Yes,Open
+12,12,DataVision,2024-10-19,Miami,Yes,Open
+13,13,Innovatech,2024-11-01,Chicago,No,Open
+14,14,PixelPerfect,2024-10-20,Chicago,No,Closed
+15,15,DeepInsights,2024-10-27,Houston,No,Open
+16,16,DataVision,2024-10-22,Chicago,Yes,Closed
+17,17,PixelPerfect,2024-10-14,Portland,No,Closed
+18,18,DeepInsights,2024-10-06,New York,No,Closed
+19,19,Streamline,2024-10-09,Philadelphia,Yes,Closed
+20,20,MobileX,2024-10-24,Austin,Yes,Closed
+21,21,MobileX,2024-10-12,"Washington, D.C.",Yes,Closed
+22,22,Cloudify,2024-10-06,Austin,No,Open
+23,23,DevMasters,2024-10-02,Philadelphia,Yes,Open
+24,24,ProductHub,2024-10-14,Phoenix,No,Closed
+25,25,NextGen Solutions,2024-10-09,San Francisco,Yes,Closed
+26,26,AI Dynamics,2024-10-10,Philadelphia,No,Open
+27,27,Innovatech,2024-10-17,Phoenix,No,Closed
+28,28,CyberSecure,2024-10-27,Phoenix,No,Open
+29,29,AgileForce,2024-11-01,Boston,Yes,Closed
+30,30,AgileForce,2024-10-30,Los Angeles,Yes,Closed
+31,31,AgileForce,2024-10-09,Houston,No,Closed
+32,32,SoftNet,2024-10-06,"Washington, D.C.",Yes,Open
+33,33,DataVision,2024-10-20,Phoenix,No,Closed
+34,34,Cloudify,2024-10-08,Denver,No,Closed
+35,35,Cloudify,2024-10-13,Boston,No,Closed
+36,36,CodeBuilders,2024-10-27,Seattle,No,Closed
+37,37,NextGen Solutions,2024-10-19,Minneapolis,Yes,Open
+38,38,DataVision,2024-10-09,Chicago,No,Closed
+39,39,SecureIT,2024-10-08,New York,Yes,Open
+40,40,DataVision,2024-10-15,Miami,Yes,Closed
+41,41,AI Dynamics,2024-10-23,Atlanta,Yes,Open
+42,42,NextGen Solutions,2024-10-11,Atlanta,Yes,Closed
+43,43,BrightApps,2024-10-31,San Francisco,Yes,Open
+44,44,Streamline,2024-10-15,Seattle,Yes,Open
+45,45,ProductHub,2024-10-23,Denver,No,Open
+46,46,DevMasters,2024-10-31,Boston,Yes,Open
+47,47,NextGen Solutions,2024-10-28,Atlanta,No,Open
+48,48,NextGen Solutions,2024-10-30,New York,No,Closed
+49,49,CodeBuilders,2024-10-16,Dallas,No,Closed
+50,50,TechCorp,2024-10-31,Miami,No,Open
+51,51,PixelPerfect,2024-10-20,Phoenix,No,Closed
+52,52,SecureIT,2024-11-01,Portland,No,Closed
+53,53,CyberSecure,2024-10-30,Philadelphia,No,Closed
+54,54,DataSys,2024-11-01,Raleigh,No,Open
+55,55,Streamline,2024-10-07,Los Angeles,No,Closed
+56,56,BrightApps,2024-10-11,Minneapolis,No,Open
+57,57,ProductHub,2024-10-22,"Washington, D.C.",Yes,Open
+58,58,DeepInsights,2024-10-24,Denver,Yes,Closed
+59,59,Innovatech,2024-10-29,Phoenix,No,Open
+60,60,TechCorp,2024-10-29,Raleigh,No,Closed
+61,61,SoftNet,2024-10-24,New York,Yes,Open
+62,62,Innovatech,2024-10-07,Austin,No,Closed
+63,63,Cloudify,2024-10-28,Raleigh,No,Open
+64,64,Innovatech,2024-10-14,Minneapolis,Yes,Closed
+65,65,DataVision,2024-10-26,Denver,Yes,Closed
+66,66,PixelPerfect,2024-10-04,Atlanta,Yes,Closed
+67,67,PixelPerfect,2024-10-28,Austin,Yes,Open
+68,68,CyberSecure,2024-10-29,New York,Yes,Open
+69,69,BrightApps,2024-10-25,New York,Yes,Closed
+70,70,ProductHub,2024-10-19,San Francisco,Yes,Closed
+71,71,Innovatech,2024-10-16,Boston,No,Closed
+72,72,Cloudify,2024-10-17,Minneapolis,No,Open
+73,73,TechCorp,2024-10-14,Houston,Yes,Closed
+74,74,TechCorp,2024-10-23,Boston,No,Open
+75,75,AgileForce,2024-10-07,Boston,No,Closed
+76,76,SecureIT,2024-10-19,Minneapolis,No,Closed
+77,77,PixelPerfect,2024-10-14,San Francisco,No,Closed
+78,78,SecureIT,2024-10-24,Philadelphia,Yes,Closed
+79,79,AgileForce,2024-10-02,Phoenix,No,Closed
+80,80,DevMasters,2024-10-25,Seattle,Yes,Open

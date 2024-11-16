@@ -1,0 +1,81 @@
+JobID,JobTitle,Category,Level
+1,Full Stack Developer,Software Development,Intern
+2,Full Stack Developer,Software Development,Junior
+3,Full Stack Developer,Software Development,Mid-Level
+4,Full Stack Developer,Software Development,Senior
+5,Data Analyst,Data Analytics,Intern
+6,Data Analyst,Data Analytics,Junior
+7,Data Analyst,Data Analytics,Mid-Level
+8,Data Analyst,Data Analytics,Senior
+9,Data Engineer,Data Engineering,Intern
+10,Data Engineer,Data Engineering,Junior
+11,Data Engineer,Data Engineering,Mid-Level
+12,Data Engineer,Data Engineering,Senior
+13,Software Engineer,Software Development,Intern
+14,Software Engineer,Software Development,Junior
+15,Software Engineer,Software Development,Mid-Level
+16,Software Engineer,Software Development,Senior
+17,Web Developer,Software Development,Intern
+18,Web Developer,Software Development,Junior
+19,Web Developer,Software Development,Mid-Level
+20,Web Developer,Software Development,Senior
+21,DevOps Engineer,IT Operations,Intern
+22,DevOps Engineer,IT Operations,Junior
+23,DevOps Engineer,IT Operations,Mid-Level
+24,DevOps Engineer,IT Operations,Senior
+25,System Administrator,IT Operations,Intern
+26,System Administrator,IT Operations,Junior
+27,System Administrator,IT Operations,Mid-Level
+28,System Administrator,IT Operations,Senior
+29,Machine Learning Engineer,AI & Machine Learning,Intern
+30,Machine Learning Engineer,AI & Machine Learning,Junior
+31,Machine Learning Engineer,AI & Machine Learning,Mid-Level
+32,Machine Learning Engineer,AI & Machine Learning,Senior
+33,Business Analyst,Business Intelligence,Intern
+34,Business Analyst,Business Intelligence,Junior
+35,Business Analyst,Business Intelligence,Mid-Level
+36,Business Analyst,Business Intelligence,Senior
+37,Database Administrator,Data Management,Intern
+38,Database Administrator,Data Management,Junior
+39,Database Administrator,Data Management,Mid-Level
+40,Database Administrator,Data Management,Senior
+41,UI/UX Designer,Design,Intern
+42,UI/UX Designer,Design,Junior
+43,UI/UX Designer,Design,Mid-Level
+44,UI/UX Designer,Design,Senior
+45,Backend Developer,Software Development,Intern
+46,Backend Developer,Software Development,Junior
+47,Backend Developer,Software Development,Mid-Level
+48,Backend Developer,Software Development,Senior
+49,Frontend Developer,Software Development,Intern
+50,Frontend Developer,Software Development,Junior
+51,Frontend Developer,Software Development,Mid-Level
+52,Frontend Developer,Software Development,Senior
+53,Cloud Engineer,Cloud Computing,Intern
+54,Cloud Engineer,Cloud Computing,Junior
+55,Cloud Engineer,Cloud Computing,Mid-Level
+56,Cloud Engineer,Cloud Computing,Senior
+57,IT Support Specialist,IT Support,Intern
+58,IT Support Specialist,IT Support,Junior
+59,IT Support Specialist,IT Support,Mid-Level
+60,IT Support Specialist,IT Support,Senior
+61,Security Analyst,Cybersecurity,Intern
+62,Security Analyst,Cybersecurity,Junior
+63,Security Analyst,Cybersecurity,Mid-Level
+64,Security Analyst,Cybersecurity,Senior
+65,Product Manager,Product Management,Intern
+66,Product Manager,Product Management,Junior
+67,Product Manager,Product Management,Mid-Level
+68,Product Manager,Product Management,Senior
+69,Scrum Master,Agile Methodology,Intern
+70,Scrum Master,Agile Methodology,Junior
+71,Scrum Master,Agile Methodology,Mid-Level
+72,Scrum Master,Agile Methodology,Senior
+73,Mobile App Developer,Software Development,Intern
+74,Mobile App Developer,Software Development,Junior
+75,Mobile App Developer,Software Development,Mid-Level
+76,Mobile App Developer,Software Development,Senior
+77,Data Scientist,Data Science,Intern
+78,Data Scientist,Data Science,Junior
+79,Data Scientist,Data Science,Mid-Level
+80,Data Scientist,Data Science,Senior
